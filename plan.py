@@ -56,7 +56,7 @@ def plan_meals(protein, vegs, carbs):
   return meal_plan, shopping_list
 
 def organize_meals(meals, days):
-  new_meals = {"Tuesday":"Chicken nuggets with mac and cheese", "Friday": "costco pizza", "Saturday": "audible or leftovers"}
+  new_meals = {"Tuesday":"chicken nuggets with mac and cheese", "Friday": "costco pizza", "Saturday": "audible or leftovers"}
   format_string = "{} with {} and {}"
   for meal in meals:
     meal_string = format_string.format(meal['meat'], meal['carb'], meal['veg'])
