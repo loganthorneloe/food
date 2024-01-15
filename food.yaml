@@ -1,0 +1,30 @@
+protein:
+- salmon
+- chicken_breast
+- chicken_wings
+- ground_beef
+- shrimp
+- pork_chop
+- tuna
+- chicken_drums
+carbs:
+- bread
+- rice
+- potatoes
+vegs:
+- broccoli
+- brussel_sprouts
+- asparagus
+- salad_kit
+- green_beans
+- spinach
+- peas
+days:
+- Monday
+- Wednesday
+- Thursday
+- Sunday
+prep_list:
+- chicken_drums
+- chicken_breast
+- chicken_wings
